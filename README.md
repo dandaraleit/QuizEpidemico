@@ -1,5 +1,5 @@
 # QuizEpidemico
-Projeto de AP1 para a disciplina de Lógica de Programação 29/30abril2020
+Projeto de AP1 em programação estruturada para a disciplina de Lógica de Programação 29/30abril2020
 
 Notas sobre o Quiz Epidêmico:
 O cenário mundial em que estamos passando neste momento requer boa parte de nossa atenção e cuidados. O mundo em que, nós, seres humanos, estamos vivendo está passando desde o final do ano de 2019 por uma pandemia causada pelo Corona Vírus, que acarreta na doença nomeada pelos cientistas de COVID-19.
